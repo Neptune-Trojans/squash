@@ -1,0 +1,8 @@
+name: squash
+channels:
+  - defaults
+dependencies:
+  - python=3.11.12
+  - pip
+  - pip:
+      - -r requirements.txt

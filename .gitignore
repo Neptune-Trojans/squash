@@ -1,3 +1,12 @@
+# macOS
+.DS_Store
+
+# JetBrains
+.idea/
+
+# Claude Code
+CLAUDE.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
